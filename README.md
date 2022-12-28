@@ -49,7 +49,7 @@ git clone https://github.com/codewithsadee/casmart.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/ankit-srivastava-946b09163/).
 
 ### License
 
